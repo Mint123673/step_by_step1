@@ -3,9 +3,9 @@
 网站的公网地址，网站源代码Github仓库网址。
 
 ## 一、网站目录结构
-
-用 "tree"命令输出网站目录结构并截图
-
+截图：
+![网站目录截图](https://img.vim-cn.com/ed/0856d4f154bc7fe0ff78e0f061b904bbc551a2.png)
+![网站目录截图](https://img.vim-cn.com/f3/0f44c2b2b0dde921521d74eb6cc337be8ed39a.png)
 ## 二、网站截图
 截图内容
 ### 1、首页
