@@ -1,6 +1,7 @@
 # WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站
 
-网站的公网地址，网站源代码Github仓库网址。
+[网站的公网地址](https://mint123673.github.io/step_by_step1/)
+[网站源代码Github仓库网址](https://github.com/Mint123673/step_by_step)
 
 ## 一、网站目录结构
 ![网站目录截图](https://img.vim-cn.com/ed/0856d4f154bc7fe0ff78e0f061b904bbc551a2.png)
