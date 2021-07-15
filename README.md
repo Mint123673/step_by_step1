@@ -4,7 +4,7 @@
 [网站源代码Github仓库网址](https://github.com/Mint123673/step_by_step)
 
 ## 一、网站目录结构
-![网站目录截图](https://img.vim-cn.com/ed/0856d4f154bc7fe0ff78e0f061b904bbc551a2.png)
+![网站目录截图](https://github.com/Mint123673/step_by_step1/blob/main/%E7%BD%91%E7%AB%99%E7%9B%AE%E5%BD%951.png)
 ![网站目录截图](https://img.vim-cn.com/f3/0f44c2b2b0dde921521d74eb6cc337be8ed39a.png)
 ## 二、网站截图
 ### 1、首页
