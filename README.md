@@ -19,7 +19,7 @@
 ### 5、一个作者简介页面
 ![一个作者简介截图](https://github.com/Mint123673/step_by_step1/blob/main/%E4%BD%9C%E8%80%85%E7%AE%80%E4%BB%8B.png)
 ### 6、一个About页面
-![About页面截图](https://img.vim-cn.com/91/3d7fdd03250abc847ef2b90c713d3cf06a2d99.png)
+![About页面截图](https://github.com/Mint123673/step_by_step1/blob/main/about.png)
 ## 三、实验过程
 按照教程一步一步的往下做，遇到不会的，就百度、问别人。我觉得整个实验过程就是不断出现错误然后不断改正的
 过程。
