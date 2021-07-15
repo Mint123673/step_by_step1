@@ -1,7 +1,7 @@
 # WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站
 
-[网站的公网地址](https://mint123673.github.io/step_by_step/)
-[网站源代码Github仓库网址](https://github.com/Mint123673/step_by_step)
+[网站的公网地址:https://mint123673.github.io/step_by_step/](https://mint123673.github.io/step_by_step/)
+[网站源代码Github仓库网址:https://github.com/Mint123673/step_by_step](https://github.com/Mint123673/step_by_step)
 
 ## 一、网站目录结构
 ![网站目录截图](https://github.com/Mint123673/step_by_step1/blob/main/%E7%BD%91%E7%AB%99%E7%9B%AE%E5%BD%951.png)
