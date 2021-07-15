@@ -8,12 +8,12 @@
 ![网站目录截图](https://github.com/Mint123673/step_by_step1/blob/main/%E7%BD%91%E7%AB%99%E7%9B%AE%E5%BD%952.png)
 ## 二、网站截图
 ### 1、首页
-![首页截图](https://img.vim-cn.com/a9/16914333d9351a01259b9bea634ec2e4847136.png)
+![首页截图](https://github.com/Mint123673/step_by_step1/blob/main/%E9%A6%96%E9%A1%B5.png)
 ### 2、Blog列表页
-![Blog列表页截图](https://img.vim-cn.com/60/5d26d9efa3ddcbad57a64cae472e1acbbefaee.png)
+![Blog列表页截图](https://github.com/Mint123673/step_by_step1/blob/main/blog%E5%88%97%E8%A1%A8%E9%A1%B5.png)
 ### 3、两篇Post（至少一篇是makdown练习）
-![post截图](https://img.vim-cn.com/2e/060cfd9764b90b1c7bcfa1c476add615719b8f.png)
-![post截图](https://img.vim-cn.com/9d/42c8c58e6c57af331c565a1b4f2ef81be7850a.png)
+![post截图](https://github.com/Mint123673/step_by_step1/blob/main/post1.png)
+![post截图](https://github.com/Mint123673/step_by_step1/blob/main/post2.png)
 ### 4、一个Staff列表页
 ![staff列表页截图](https://img.vim-cn.com/56/ec7e99ba0073895d819d93bcc8929475b96691.png)
 ### 5、一个作者简介页面
