@@ -15,9 +15,9 @@
 ![post截图](https://github.com/Mint123673/step_by_step1/blob/main/post1.png)
 ![post截图](https://github.com/Mint123673/step_by_step1/blob/main/post2.png)
 ### 4、一个Staff列表页
-![staff列表页截图](https://img.vim-cn.com/56/ec7e99ba0073895d819d93bcc8929475b96691.png)
+![staff列表页截图](https://github.com/Mint123673/step_by_step1/blob/main/staff.png)
 ### 5、一个作者简介页面
-![一个作者简介截图](https://img.vim-cn.com/cb/525f28395d836d7180b2a19560fdc202880556.png)
+![一个作者简介截图](https://github.com/Mint123673/step_by_step1/blob/main/%E4%BD%9C%E8%80%85%E7%AE%80%E4%BB%8B.png)
 ### 6、一个About页面
 ![About页面截图](https://img.vim-cn.com/91/3d7fdd03250abc847ef2b90c713d3cf06a2d99.png)
 ## 三、实验过程
